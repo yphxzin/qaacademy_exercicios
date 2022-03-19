@@ -1,4 +1,4 @@
-package exemploInstanciaDeClasse;
+package exemploInstansciaDeClasse;
 
 public class Cachorro {
 

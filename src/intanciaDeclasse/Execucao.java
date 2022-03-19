@@ -1,4 +1,4 @@
-package exerciciosMetodos;
+package intanciaDeclasse;
 
 public class Execucao {
 
