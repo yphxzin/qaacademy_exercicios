@@ -2,7 +2,7 @@ package refatoracao;
 
 public class exercicio07 {
     public double calcularInss(double salario) {
-        double inss;
+        double inss= 0;
         if (salario <= 1045.00) {
             inss = salario * 0.075;
 
@@ -25,9 +25,9 @@ public class exercicio07 {
 
         if (salario >= 6101.07) {
             inss = 854.15;
-            return inss;
+        
         }
-        return salario;
+        return inss;
     }
 
 }
