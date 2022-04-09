@@ -5,4 +5,5 @@ lib/
 /target
 .classpath
 .project
+pom.xml
 
