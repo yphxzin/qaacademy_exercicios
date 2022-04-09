@@ -22,4 +22,8 @@ public class Exercicio02 {
         System.out.println("O Valor total são : " + valorTotal);
     }
 
+    public double calcularInvestimentoJurosCompostos(double valorInvestimento) {
+        return 0;
+    }
+
 }
